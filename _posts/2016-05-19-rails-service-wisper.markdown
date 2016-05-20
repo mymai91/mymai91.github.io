@@ -61,10 +61,10 @@ module Food
 end
 ```
 
-When I add `include Wisper::Publisher` at **module Food** It will tell that:
+When we put `include Wisper::Publisher` at **module Food** It will tell that:
 I will broadcast event about Food at here.
 
-We find a food. There are 2 cases:
+We're finding a food. There are 2 cases:
 
   * Found a food => food object != nil
   * Not found a food => food object == nil
@@ -101,7 +101,7 @@ class FoodsController < ApplicationController
 end
 ```
 
-We listen even `broadcast` via `.on`. When service broadcast `broadcast(:find_food_by_id_failed)`
+We listen event `broadcast` via `.on`. When service broadcast `broadcast(:find_food_by_id_failed)`
 The controller will listen event by this way`on(:find_food_by_id_failed)`
 
 ### How about test for Wisper
