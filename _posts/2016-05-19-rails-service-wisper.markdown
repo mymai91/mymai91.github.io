@@ -3,7 +3,7 @@ layout: post
 title:  "[Rails] Write service object in Ruby use Wisper"
 comments: true
 date:   2016-05-19 15:07:33 +0700
-categories: jekyll update
+categories: rails
 ---
 
 ## Hey! Tell me know What is "[Wisper][wisper_link]"?

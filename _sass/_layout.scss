@@ -100,23 +100,11 @@
  */
 
 .banner {
-  background-image: url(https://cloud.githubusercontent.com/assets/6791942/15418408/53fb0aa8-1e89-11e6-899d-a9391623f754.jpg);
+  background-image: url(https://cloud.githubusercontent.com/assets/6791942/15420425/d98132d0-1e96-11e6-9895-2783ab325d7d.jpg);
   background-size: cover;
   background-position: center center;
   position: relative;
   min-height: 28em;
-
-  .banner-text {
-    color: $white-color;
-    top: 50%;
-    left: 0;
-    right: 0;
-    text-align: center;
-    text-transform: uppercase;
-    transform: translateY(-70%);
-    position: absolute;
-    -webkit-transform: translateY(-70%);
-  }
 }
 
 /**
