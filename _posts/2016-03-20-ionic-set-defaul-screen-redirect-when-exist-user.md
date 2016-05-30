@@ -23,7 +23,7 @@ user_object = {
               name: "mymai",
               token: "aksoenziekd14mxd"
             }
-            
+
 localStorage.setItem("user", user_object)
 ```
 
@@ -93,4 +93,3 @@ angular.module('burgerboy', [
 
 ```
 Done
-

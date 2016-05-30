@@ -159,6 +159,9 @@ Just invoke
 OrderMailer.welcome(order_id).deliver
 ```
 
+Next step we will write [test case][testcase] send_mail
+
 ### Alright Done, I think hehe ^_^
 
 [mandrill]: https://mandrillapp.com/login/?referrer=%2F
+[testcase]: /rails/2016/05/30/rails-write-test-case-send-email.html
