@@ -6,7 +6,7 @@ date:   2016-03-12 15:07:33 +0700
 categories: welcome
 ---
 
-Welcome to My Mai Blog!
+Welcome to my Blog!
 
 I think that **Sharing is caring** **Sharing more and getting more**
 
