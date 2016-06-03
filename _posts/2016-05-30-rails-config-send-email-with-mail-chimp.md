@@ -16,11 +16,17 @@ For now to send email we will create MailChimp account and use MailChimp account
 ### Create template
 After login, we will access to templates and touch on create templates button
 
+![screen shot 2016-06-02 at 10 38 19 am](https://cloud.githubusercontent.com/assets/6791942/15732884/e160128c-28aa-11e6-9231-56d17440b67f.png)
+
 After create templates successful. Send templates to mandrill
+
+![screen shot 2016-06-02 at 10 39 19 am](https://cloud.githubusercontent.com/assets/6791942/15732897/f5db76ac-28aa-11e6-8446-0f821189af21.png)
 
 ### Verify account
 
 After login Mandrill by MailChimp account. Choose Domain to verify account
+
+![screen shot 2016-06-02 at 10 40 19 am](https://cloud.githubusercontent.com/assets/6791942/15732923/273421fe-28ab-11e6-9b00-d3c12aae0d1f.png)
 
 ### Setup to send email
 
