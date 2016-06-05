@@ -40,7 +40,7 @@ angular
     $ionicPlatform.ready(function() {
       config =  {
         android: {
-          senderID: "551997935489"
+          senderID: "551489489489"
         },
         ios: {
           alert: 'true',
