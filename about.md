@@ -13,3 +13,11 @@ Welcome to My Mai Blog!
 I think that **Sharing is caring** **Sharing more and getting more**
 
 I need you, you need me. We need the world.
+
+Contact with me via:
+
+```
+Email: my.maithi@gmail.comment
+
+Skype: mymaith
+```
