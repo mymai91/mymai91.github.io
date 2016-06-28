@@ -45,9 +45,9 @@ At the app.js file in `config` block we will check exist user or not
 Detail code below
 
 ```
-// Ionic burgerboy App
+// Ionic stater
 
-angular.module('burgerboy', [
+angular.module('stater', [
   'ionic',
   'ngCordova',
   'login.module',

@@ -26,7 +26,7 @@ Then, we will use ` $cordovaPushV5` to help push notification via phonegap plugi
 
 ## Where we put the code to get `registrationID` use with android and `deviceToken` use with ios
 
-We will put the code at `login.js`: 
+We will put the code at `login.js`:
 
 ```
 'use strict';
@@ -34,7 +34,7 @@ We will put the code at `login.js`:
 angular
   .module('login.module')
   .controller('LoginCtrl', function($scope, $rootScope, $ionicPlatform, $cordovaPushV5) {
-  
+
     var config = null;
     var deviceToken = "";
     $ionicPlatform.ready(function() {
@@ -68,7 +68,7 @@ angular
 
 ## How we display notification on screen
 
-To display the notification on screen we will use [$cordovaToast][cordovaToast] 
+To display the notification on screen we will use [$cordovaToast][cordovaToast]
 
 See the way how **codovaToast** apply:
 
@@ -97,7 +97,7 @@ module.controller('MyCtrl', function($cordovaToast) {
 
 });
 ```
-And we will apply cordovaToast in next part 
+And we will apply cordovaToast in next part
 
 ## Where we listen notification fire to device
 
@@ -168,9 +168,9 @@ angular.module('stater', [
 });
 ```
 
-In the next I will write another post how to fire notification from backend (Rails) 
+In the next I will write another post how to fire notification from backend (Rails)
 
-### Alright Done, I think hehe ^_^
+### Alright DONE
 
 
 [cordovaToast]: http://ngcordova.com/docs/plugins/toast/
