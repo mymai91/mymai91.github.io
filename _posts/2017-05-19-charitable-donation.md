@@ -18,7 +18,7 @@ Thời gian trôi nhanh thật, mới đó cũng 4 năm từ khi tôi đến Là
 
 Mùa hè đến mùa của các em nhỏ. Những phần quà xúng xính được chuẩn bị cho các em sau một năm học hành chăm chỉ. Tôi đã tưởng tượng thấy cảnh nhộn nhịp tưng bừng đó ở khắp các trường học.
 
-Một ý định đã len lõi trong tâm trí tôi, liệu tôi có thể mang niềm vui đến cho các bé đuợc không? Kế hoạch nho nhỏ lại ấp ủ trong tôi.
+Một ý định đã len lõi trong tâm trí tôi, liệu tôi có thể mang niềm vui đến cho các bé đuợc không? Kế hoạch nho nhỏ lại ấp ủ trong tôi. Xuất phát điểm của tôi là một lập trình viên vậy nên tôi mạo mụi đặt tên quỹ này sẽ có tên là "Lập trình viên".
 
 * <b>Trao gửi những phần quà:</b>
 
