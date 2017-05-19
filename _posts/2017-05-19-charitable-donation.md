@@ -14,7 +14,7 @@ categories: social_activities
 
 <br/>
 
-Thời gian trôi nhanh thật, mới đó cũng 4 năm từ khi tôi đến Làng Hi vọng cho một chuyến tình nguyện. Lúc đó tôi mới là một đứa sinh viên chẳng có gì ngoài những hộp bánh kẹo, các em nhỏ cũng rôm rã vây quanh tội. Ôi nhanh thật bây giờ mọi thứ đều thay đổi chỉ có cái tình trong tôi thì không. Vẫn thế vẫn yêu các em, thương các em.
+Thời gian trôi nhanh thật, mới đó cũng 4 năm từ khi tôi đến Làng Hi vọng cho một chuyến tình nguyện. Lúc đó tôi mới là một đứa sinh viên chẳng có gì ngoài những hộp bánh kẹo, các em nhỏ cũng rôm rã vây quanh tôi. Ôi nhanh thật bây giờ mọi thứ đều thay đổi chỉ có cái tình trong tôi thì không. Vẫn thế vẫn yêu các em, thương các em.
 
 Mùa hè đến mùa của các em nhỏ. Những phần quà xúng xính được chuẩn bị cho các em sau một năm học hành chăm chỉ. Tôi đã tưởng tượng thấy cảnh nhộn nhịp tưng bừng đó ở khắp các trường học.
 
