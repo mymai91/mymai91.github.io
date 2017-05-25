@@ -6,6 +6,7 @@ date:   2017-05-25 15:07:33 +0700
 categories: web_design
 ---
 
+
 I drawn Maruko only using SVG object. She appear so cute. Her face like my partner in current company.
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" viewBox="0 0 500 300">
@@ -57,3 +58,9 @@ I drawn Maruko only using SVG object. She appear so cute. Her face like my partn
   ></path>
 </svg>
 ```
+
+This is the image I capture from my phone:
+
+<div style="text-align: center">
+  <img src="https://cloud.githubusercontent.com/assets/6791942/26454488/743f564e-4191-11e7-985b-b5b6f46b9cf4.jpg" alt="maruko">
+</div>
