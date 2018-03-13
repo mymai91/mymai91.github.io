@@ -69,7 +69,7 @@ I assume you know the way to save and get data by use AsyncStorage.
 ```
 componentWillMount() {
     AsyncStorageData.getToken().then((token) => {
-      const mainPage = !!token ? 'dashboard' : 'authentication';
+      const mainPage = !!token ? 'dashboard' : 'login';
       const resetAction = NavigationActions.reset({
         index: 0,
         actions: [
