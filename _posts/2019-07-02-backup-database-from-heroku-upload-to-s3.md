@@ -53,24 +53,20 @@ If you don't know how to get user_name and account_id follow the way bellow
 Or you can use this structure and change your ACCOUNT_ID and USERNAME_A
 
 ```
- {
-  "Id": "Policy1561992140151",
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Sid": "Stmt1561992110140",
-      "Action": [
-        "s3:PutObject"
-      ],
-      "Effect": "Allow",
-      "Resource": "arn:aws:s3:::bucket-dump-db",
-      "Principal": {
-        "AWS": [
-          "arn:aws:iam::ACCOUNT_ID:user/USERNAME_A"
-        ]
-      }
-    }
-  ]
+{
+    "Version": "2012-10-17",
+    "Id": "Policy1561992140151",
+    "Statement": [
+        {
+            "Sid": "Stmt1561992110140",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "arn:aws:iam::ACCOUNT_ID:user/USERNAME_A"
+            },
+            "Action": "s3:*",
+            "Resource": "arn:aws:s3:::bucket-dump-db"
+        }
+    ]
 }
 ```
 
