@@ -2,7 +2,7 @@
 layout: post
 title:  "[ReactNative] ReactNative app interact with end to end test (e2e)"
 comments: true
-date:   2018-03-12 15:07:33 +0700
+date:   2019-04-01 15:07:33 +0700
 categories: ReactNative
 ---
 
