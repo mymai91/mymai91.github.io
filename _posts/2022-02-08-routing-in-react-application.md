@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "[React] Routing in a React Application"
+comments: true
+date:   2022-02-08 15:07:33 +0700
+categories: React
+---
+
 In a React application, routing can be handled using various libraries. I used `React Router` , `Next.js` to handle it.
 
 1. React Router: This is the most popular and widely used library for routing in React applications. It provides a declarative way to define routes, nested routes, and dynamic routes using React components.
