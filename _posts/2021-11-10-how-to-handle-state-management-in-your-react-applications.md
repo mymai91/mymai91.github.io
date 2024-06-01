@@ -6,6 +6,8 @@ date:   2019-07-02 15:07:33 +0700
 categories: React
 ---
 
+# State management in your React applications
+
 `useState` allows you to add state to a functional component, while `useContext` allows you to share state between components without having to pass props down through every level of the component tree.
 
 1. useState:`useState` allows you to manage state in functional component, `useState` function to update the state value.
