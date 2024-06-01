@@ -1,4 +1,12 @@
-# **Firebase with Detox**
+---
+layout: post
+title:  "[React Native] Get OTP code from firebase"
+comments: true
+date:   2019-07-02 15:07:33 +0700
+categories: React Native
+---
+
+# **Get OTP code from firebase**
 
 Please follow the stable version
 
