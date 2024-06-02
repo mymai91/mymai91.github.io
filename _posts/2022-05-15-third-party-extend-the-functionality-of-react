@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "[React] Third-party libraries or packages to extend the functionality of React"
+comments: true
+date:   2022-05-15 15:07:33 +0700
+categories: React
+---
+
+There are numerous third-party libraries or packages available to extend the functionality of React.
+
+1. Redux: Redux is a state management library that is commonly used with React. It provides a predictable way to manage application state, making it easier to debug and test your code.
+2. React Router: React Router is a library that allows you to implement client-side routing in your React application. This makes it easier to handle navigation and manage the URL.
+3. Axios: Axios is a popular library for making HTTP requests in React applications. It provides an easy-to-use API for sending requests and handling responses.
+4. Material UI: Material UI is a library that provides pre-built components based on the Material Design system. This makes it easy to build user interfaces that follow Google's design principles.
+5. React Hook Form: is a library that makes it easy to build forms in your React application. It provides an easy-to-use API for managing form state, validataion and handling form submissions.
+6. React Query: is a library that makes fetch, cache and update data in your React
